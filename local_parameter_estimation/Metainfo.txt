@@ -1,0 +1,19 @@
+
+Name of Quantlet:  local_parameter_estimation
+
+Published in:    NA
+
+Description:      'Discovering the structure of intensities of positive and negative jumps in BTC time series'
+
+Submitted:  '29 Sep 2022'
+
+Keywords: 
+- 'Hawkes process'
+- 'self-exciting process'
+- 'inhomogeneous Poisson process'
+- 'jumps'
+- 'cryptos'
+
+
+Author: 
+- 'Francis Liu'
