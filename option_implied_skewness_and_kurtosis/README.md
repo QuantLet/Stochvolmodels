@@ -14,14 +14,14 @@ Description: Comparison of implied moments of BTC, Gold, SPX, and SQQQ
 Submitted: 6 Oct 20223
 
 Keywords: 
-- 'Hawkes process
-- 'self-exciting process
-- 'inhomogeneous Poisson process
-- 'jumps
-- 'cryptos
+- Hawkes process
+- self-exciting process
+- inhomogeneous Poisson process
+- jumps
+- cryptos
 
 Author: 
-- 'Francis Liu
+- Francis Liu
 
 ```
 <div align="center">
