@@ -14,14 +14,14 @@ Description: Discovering the structure of intensities of positive and negative j
 Submitted: 29 Sep 2022
 
 Keywords: 
-- 'Hawkes process
-- 'self-exciting process
-- 'inhomogeneous Poisson process
-- 'jumps
-- 'cryptos
+- Hawkes process
+- self-exciting process
+- inhomogeneous Poisson process
+- jumps
+- cryptos
 
 Author: 
-- 'Francis Liu
+- Francis Liu
 
 ```
 <div align="center">
